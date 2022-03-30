@@ -2,14 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+This my full application i have done...
+I used with it...
+**Sqlite Database...
+**Easy Localization to use multiple languages
+**Shared preference
+**animated_splash_screen
+**flutter Bloc
+**conditional_builder
+**flutter_launcher_icons
+**intl
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
