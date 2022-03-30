@@ -1,0 +1,35 @@
+{
+  "Tasks" : "Tasks",
+  "Done" : "Done",
+  "Archive" : "Archive",
+  "Hi" : "Hi",
+  "Title mustn't be empty" : "Title mustn't be empty",
+  "Title" : "Title",
+  "Time" : "Time",
+  "Time mustn't be empty" : "Time mustn't be empty",
+  "Date" : "Date",
+  "Date mustn't be empty" : "Date mustn't be empty",
+  "Not Tasks Yet, please Add some Tasks" : "Not Tasks Yet, please Add some Tasks",
+  "New" : "New",
+  "Archived" : "Archived",
+  "New Tasks" : "New Tasks",
+  "Done Tasks" : "Done Tasks",
+  "Archived Tasks" : "Archived Tasks",
+  "Are you sure?" : "Are you sure?",
+  "Do you want close The app?" : "Do you want close The app?",
+  "Settings" : "Settings",
+  "Arabic" : "Arabic",
+  "English" : "English",
+  "Choose your Language" : "Choose your Language",
+  "User Name " : "User Name ",
+  "LOGOUT " : "LOGOUT",
+  "Please Enter your Name" : "Please Enter your Name",
+  "User Name" : "User Name",
+  "LOGIN" : "LOGIN",
+  "LOGOUT" : "LOGOUT",
+  "Light" : "Light",
+  "Dark" : "Dark"
+
+
+
+}
